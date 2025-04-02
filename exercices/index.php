@@ -17,3 +17,9 @@ if ($age >= 18){
 
 $pi = 3.14;
 echo $pi;
+
+
+//BOUCLE et Tableaux
+
+$fruits = ['Pomme','Poire','Banane','Cerise','Fraise'];
+print_r($fruits);
